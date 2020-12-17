@@ -20,6 +20,9 @@ to the papers for full details of these algorithms.
 And follow this implementation at your own risk: There may be subtle errors,
 I have not checked the implementation carefully.
 
+Note: For more information on the method used to calculate expectiles, see
+[this other repo](https://github.com/matomatical/expectiles).
+
 ## References
 
 [1] R. S. Sutton and A. G. Barto, *Reinforcement learning: An introduction.*
